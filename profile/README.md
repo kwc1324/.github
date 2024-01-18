@@ -1,5 +1,4 @@
 ## 2024 INU ESE CAPSTONE DESIGN 👋
-### Team YSN
 
 <!--
 
