@@ -1,4 +1,4 @@
-## 2024 INU ESE CAPSTONE DESIGN 👋
+## 2024 INU ESE CAPSTONE DESIGN : TEAM 입샛노랑 👋
 
 <!--
 
