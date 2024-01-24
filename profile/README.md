@@ -1,5 +1,7 @@
 ## 2024 INU ESE CAPSTONE DESIGN : TEAM 입샛노랑 👋
 
+Github Pages(Blog): https://inu-ese-capstone-design-team-ysn.github.io/
+
 <!--
 
 **Here are some ideas to get you started:**
