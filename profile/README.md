@@ -2,6 +2,8 @@
 
 Github Pages(Blog): https://inu-ese-capstone-design-team-ysn.github.io/
 
+### Schedule will be added here soon.
+
 <!--
 
 **Here are some ideas to get you started:**
