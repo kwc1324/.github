@@ -2,7 +2,7 @@
 
 Github Pages(Blog): https://inu-ese-capstone-design-team-ysn.github.io/
 <br>
-주제 신청서 바로가기: [@바로가기](https://github.com/inu-ese-capstone-design-team-YSN/inu-ese-capstone-design-team-YSN.github.io/blob/master/_posts/%EC%9E%85%EC%83%9B%EB%85%B8%EB%9E%91_%EC%A3%BC%EC%A0%9C%20%EC%8B%A0%EC%B2%AD%EC%84%9C_%EB%8B%A4%EC%83%89%EC%83%81%20%EC%9B%90%EB%8B%A8%EC%9D%98%20%EC%83%89%EC%83%81%20%EC%9C%A0%EC%82%AC%EB%8F%84%20%EA%B2%80%EC%B6%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
+주제 신청서 바로가기: [@바로가기](https://github.com/inu-ese-capstone-design-team-YSN/inu-ese-capstone-design-team-YSN.github.io/blob/master/_posts/%EB%8B%A4%EC%83%89%EC%83%81%20%EC%9B%90%EB%8B%A8%EC%9D%98%20%EC%83%89%EC%83%81%20%EC%9C%A0%EC%82%AC%EB%8F%84%20%EA%B2%80%EC%B6%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 
 ### Schedule will be added here soon.
 
