@@ -5,5 +5,5 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | (바로가기)[https://inu-ese-capstone-design-team-ysn.github.io/weekly%E3%85%A4diary/Weekly-Diary(1%EC%A3%BC%EC%B0%A8)/]  |
+| Week 1  | [바로가기](https://inu-ese-capstone-design-team-ysn.github.io/weekly%E3%85%A4diary/Weekly-Diary(1%EC%A3%BC%EC%B0%A8)/)  |
 | Content Cell  | Content Cell  |
