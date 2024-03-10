@@ -3,6 +3,7 @@
 Github Pages(Blog): [@블로그](https://inu-ese-capstone-design-team-ysn.github.io/)
 <br>
 <br>
+Weekly Diary Table
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
