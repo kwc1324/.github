@@ -4,7 +4,8 @@
 Github Pages(Blog): https://inu-ese-capstone-design-team-ysn.github.io/
 <br>
 - Weekly Diary  
-<br>
-| Week | Link |  
-|----------|----------|  
-| 1주차| [@1주차 링크](https://inu-ese-capstone-design-team-ysn.github.io/weekly%E3%85%A4diary/Weekly-Diary(1%EC%A3%BC%EC%B0%A8)/)|  
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
