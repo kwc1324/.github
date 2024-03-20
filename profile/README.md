@@ -18,8 +18,8 @@
 
 | Project Name  | Link |
 | ------------- | ------------- |
-| Clustering Project  | [@Project Clustering]()  |
-| Calibration Project  | [@Project Calibration]()  |
+| Clustering Project  | [@Clustering]()  |
+| Calibration Project  | [@Calibration]()  |
 
 <br>
 
@@ -28,5 +28,5 @@
 
 | Project Name  | Link |
 | ------------- | ------------- |
-| Clustering Repository | [@Project Repository](https://github.com/inu-ese-capstone-design-team-YSN/clustering)  |
-| Calibration Repository  | [@Project Repository](https://github.com/inu-ese-capstone-design-team-YSN/calibration)  |
+| Clustering Repository | [@Repo](https://github.com/inu-ese-capstone-design-team-YSN/clustering)  |
+| Calibration Repository  | [@Repo](https://github.com/inu-ese-capstone-design-team-YSN/calibration)  |
