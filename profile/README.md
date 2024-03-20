@@ -25,5 +25,5 @@
 - **Team Repository**
 > 프로젝트 별 레포지토리 링크
 
-  - Clustering: [@repo](https://github.com/inu-ese-capstone-design-team-YSN/clustering)
-  - Calibration: [@repo](https://github.com/inu-ese-capstone-design-team-YSN/calibration)
+Clustering: [@repo](https://github.com/inu-ese-capstone-design-team-YSN/clustering)
+Calibration: [@repo](https://github.com/inu-ese-capstone-design-team-YSN/calibration)
