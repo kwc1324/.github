@@ -13,5 +13,5 @@
 <br>
 
 - **Team Repository**
-  - Clustering: [@레포지토리](naver.com)
-  - Calibration: [@레포지토리](naver.com)
+  - Clustering: [@repo](https://github.com/inu-ese-capstone-design-team-YSN/clustering)
+  - Calibration: [@repo](https://github.com/inu-ese-capstone-design-team-YSN/calibration)
